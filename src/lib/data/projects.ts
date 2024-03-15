@@ -63,7 +63,7 @@ export const items: Array<Project> = [
 	},
 
 	{
-		slug: 'slick-portfolio-angular',
+		slug: 'slick-portfolio-web',
 		color: '#5e95e3',
 		description:
 			'Inotes stands as the outcome of my two-month internship, representing a proficiently developed notes storing application tailored for Android devices. Leveraging Xamarin and C#, the application offers a seamless cross-platform experience. With a focus on simplicity and functionality, Inotes enables users to effortlessly store and manage their notes on-the-go. Utilizing SQLite database for efficient data storage and retrieval, the application ensures smooth performance and reliability. Innotes embodies the culmination of my internship experience, showcasing my adeptness in mobile application development and my commitment to delivering user-centric solutions.',
@@ -80,7 +80,7 @@ export const items: Array<Project> = [
 	},
 
 	{
-		slug: 'slick-portfolio-angular',
+		slug: 'slick-portfolio-app',
 		color: '#5e95e3',
 		description:
 			'The web application I developed during a 24-hour hackathon secured the 2nd runner-up position, boasting a versatile platform where customers, vehicle providers, and administrators can seamlessly interact concurrently. Designed to facilitate efficient operations across all three user roles, the application represents an ambitious endeavor to streamline processes within the transportation industry. Despite its current status as "under construction," with approximately 85% of the project already implemented during the hackathon, ongoing development efforts are focused on refining existing features and introducing enhancements for improved functionality. This project underscores my dedication to innovation and my ability to deliver impactful solutions within tight deadlines.',
