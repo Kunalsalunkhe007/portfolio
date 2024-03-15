@@ -34,7 +34,7 @@ export const items: Array<Experience> = [
 		shortDescription: 'During my internship at Infotech Inc., I concurrently served as a student ambassador, bridging communication and fostering collaboration between the company and over 150 students.'
 	},
 	{
-		slug: 'software-freelance',
+		slug: 'product-review',
 		company: 'PlayBookUX',
 		description: 'As a freelance professional on PlaybookUX, I have consistently delivered high-quality services in website and application testing, as well as product reviews, garnering an average rating of over 4.5 stars from satisfied clients worldwide. Specializing in user experience evaluation, I meticulously assess websites and applications to ensure optimal functionality and usability, providing actionable feedback for improvement. Additionally, I conduct thorough product reviews, offering valuable insights to aid in decision-making and enhance overall product quality. My commitment to excellence and attention to detail have established me as a trusted resource for international clients seeking reliable and insightful feedback on their digital products and services.',
 		contract: ContractType.Freelance,
@@ -50,7 +50,7 @@ export const items: Array<Experience> = [
 	},
 
 	{
-		slug: 'software-freelance',
+		slug: 'product-test',
 		company: 'UserTesting',
 		description: 'As a freelancer on UserTesting, I have honed my expertise in website and application testing, as well as product reviews, catering to diverse international clientele. With an exceptional average rating exceeding 4.5 stars, I meticulously evaluate digital platforms to ensure optimal functionality and user experience, providing comprehensive feedback for enhancement. My commitment to delivering insightful insights and actionable recommendations has solidified my reputation as a trusted resource, facilitating seamless collaboration and driving improvements for clients across various industries.',
 		contract: ContractType.Freelance,
