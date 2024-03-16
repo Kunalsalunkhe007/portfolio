@@ -76,7 +76,7 @@ export const items = [
 		color: 'blue',
 		description:
 			'With a solid two-year tenure in PHP development, Ive amassed substantial expertise in crafting dynamic and robust web applications. My journey in PHP spans across diverse projects, from e-commerce platforms to content management systems, where Ive demonstrated proficiency in leveraging PHPs versatility and scalability to meet unique project requirements. Over this period, Ive honed my skills in backend development, database integration, and server-side scripting, ensuring seamless functionality and optimal performance. Committed to staying updated with the latest PHP frameworks and best practices, I strive to deliver innovative solutions that drive business growth and exceed client expectations.',
-		logo: Assets.Java,
+		logo: Assets.Php,
 		name: 'Php',
 		category: 'pro-lang'
 	}),
