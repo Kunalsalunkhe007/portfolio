@@ -72,6 +72,15 @@ export const items = [
 		category: 'pro-lang'
 	}),
 	defineSkill({
+		slug: 'php',
+		color: 'blue',
+		description:
+			'With a solid two-year tenure in PHP development, Ive amassed substantial expertise in crafting dynamic and robust web applications. My journey in PHP spans across diverse projects, from e-commerce platforms to content management systems, where Ive demonstrated proficiency in leveraging PHPs versatility and scalability to meet unique project requirements. Over this period, Ive honed my skills in backend development, database integration, and server-side scripting, ensuring seamless functionality and optimal performance. Committed to staying updated with the latest PHP frameworks and best practices, I strive to deliver innovative solutions that drive business growth and exceed client expectations.',
+		logo: Assets.Java,
+		name: 'Php',
+		category: 'pro-lang'
+	}),
+	defineSkill({
 		slug: 'css',
 		color: 'blue',
 		description:
@@ -84,7 +93,7 @@ export const items = [
 		slug: 'html',
 		color: 'orange',
 		description:
-			'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent orci enim, congue sit amet justo eget, consequat sollicitudin libero. Etiam iaculis lectus tempor, hendrerit enim in, luctus arcu. Maecenas id enim et nibh ullamcorper auctor ac eu est. Donec imperdiet, diam quis malesuada faucibus, nibh ex gravida sapien, posuere pharetra nunc libero tristique turpis. Sed egestas laoreet semper. In hac habitasse platea dictumst. Praesent vitae est nec felis maximus facilisis. Duis luctus dui id urna tristique varius. Ut vulputate leo arcu, non bibendum arcu pulvinar eget. Fusce semper elit ut congue lacinia. Suspendisse magna diam, tempus vitae interdum eget, dictum vitae nisl. Praesent quis fringilla tortor. Donec vitae sagittis dui.',
+			'With over three years of hands-on experience in HTML development, I have cultivated a deep understanding of web markup language. Throughout my journey, I have leveraged HTML to create visually appealing and user-friendly web interfaces, ensuring compatibility and accessibility across various platforms and devices. From structuring content to optimizing for search engines, my proficiency in HTML extends to implementing best practices for efficient and semantic coding. With a keen eye for detail and a passion for clean and maintainable code, I am dedicated to delivering high-quality web experiences that exceed client expectations and contribute to the success of projects.',
 		logo: Assets.HTML,
 		name: 'HTML',
 		category: 'markup-style'
