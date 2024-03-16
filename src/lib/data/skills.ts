@@ -108,14 +108,6 @@ export const items = [
 		category: 'library'
 	}),
 	defineSkill({
-		slug: 'svelte',
-		color: 'orange',
-		description: svelte,
-		logo: Assets.Svelte,
-		name: 'Svelte',
-		category: 'library'
-	}),
-	defineSkill({
 		slug: 'sql',
 		color: 'cyan',
 		description: 
