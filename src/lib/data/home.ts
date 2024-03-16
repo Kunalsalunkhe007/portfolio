@@ -8,7 +8,7 @@ export const name = 'Kunal';
 export const lastName = 'Salunkhe';
 
 export const description =
-	'Hey there! Im Kunal Salunkhe, a passionate web developer currently pursuing my bachelors degree in Computer Engineering. Specializing in front-end development, I craft visually appealing and user-friendly websites. Eager to expand my skill set, Im also venturing into Android development. Explore my projects here, and lets collaborate to create captivating digital experiences together!';
+	'Hey there! Im Kunal Salunkhe, a passionate web developer currently pursuing my bachelors degree in Computer Engineering. Specializing in full-stack web development, I craft visually appealing and user-friendly websites with awesome logics. Eager to expand my skill set, Im also venturing into Android development. Explore my projects here, and lets collaborate to create captivating digital experiences together!';
 
 export const links: Array<{ platform: Platform; link: string }> = [
 	{ 
